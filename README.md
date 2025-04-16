@@ -1,9 +1,9 @@
 # Utility Toolkit 🛠️
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/utility-toolkit)](https://github.com/yourusername/utility-toolkit)
-[![GitHub code size](https://img.shields.io/github/languages/code-size/yourusername/utility-toolkit)](https://github.com/yourusername/utility-toolkit)
+[![GitHub last commit](https://img.shields.io/github/last-commit/Senzokuhle/The-Swiss-Army-Knife)](https://github.com/Senzokuhle/The-Swiss-Army-Knife)
+[![GitHub code size](https://img.shields.io/github/languages/code-size/Senzokuhle/The-Swiss-Army-Knife)](https://github.com/Senzokuhle/The-Swiss-Army-Knife)
 [![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://yourusername.github.io/utility-toolkit)
+[![Live Demo](https://img.shields.io/badge/demo-live-green)](https://Senzokuhle.github.io/The-Swiss-Army-Knife)
 
 A collection of essential web-based utilities featuring password generation, mathematical calculations, lottery number generation, and validation tools for South African phone numbers and email addresses.
 
@@ -53,4 +53,4 @@ A collection of essential web-based utilities featuring password generation, mat
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/utility-toolkit.git
+git clone https://github.com/yourusername/The-Swiss-Army-Knife.git
