@@ -7,7 +7,7 @@
 
 A collection of essential web-based utilities featuring password generation, mathematical calculations, lottery number generation, and validation tools for South African phone numbers and email addresses.
 
-![Toolkit Screenshot](screenshot.png) <!-- Add actual screenshot path -->
+![The-Swiss-Army-Knife Screenshot](screenshot.png) <!-- Add actual screenshot path -->
 
 ## ✨ Features
 
