@@ -1,4 +1,4 @@
-# Utility Toolkit 🛠️
+# The-Swiss-Army-Knife 🛠️
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/Senzokuhle/The-Swiss-Army-Knife)](https://github.com/Senzokuhle/The-Swiss-Army-Knife)
 [![GitHub code size](https://img.shields.io/github/languages/code-size/Senzokuhle/The-Swiss-Army-Knife)](https://github.com/Senzokuhle/The-Swiss-Army-Knife)
